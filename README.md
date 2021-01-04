@@ -1,0 +1,7 @@
+# Airbnb.com-Web-Scraper
+
+##Build an Web Scraper that extracts New York's Airbnb house listing data from Airbnb.com using Python's Selenium library
+
+##Output of data extracted in pandas dataframe format
+
+![](https://github.com/Manandedhia/Airbnb.com-Web-Scraper/blob/master/airbnbdataframess.JPG)
