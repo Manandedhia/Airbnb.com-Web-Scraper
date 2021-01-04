@@ -1,0 +1,301 @@
+host_type,room_type,location,room_desc,no_of_guests,ratings,no_of_reviews,price
+SUPERHOST,Entire apartment in Soho,Soho,DISCOUNTED Nice beach inspired apartment in SoHo,2.0,na,na,50.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,City Queen,2.0,4.54,188,69.0
+SUPERHOST,Private room in Manhattan,Manhattan,Charming Room in New York City,2.0,4.75,4,47.0
+SUPERHOST,Private room in South Street Seaport,SouthStreetSeaport,Lovely Room with Great Views at Financial District,2.0,4.62,13,56.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,5.0,6,79.0
+SUPERHOST,Entire apartment in Tribeca,Tribeca,Tribeca Studio in Pet-Friendly Building,2.0,na,na,128.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Beautiful King Bed Hotel Room,2.0,4.8,5,79.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,Furnished Studio Apartment,2.0,na,na,70.0
+SUPERHOST,Hotel room in Midtown,Midtown,Queen Room,2.0,4.63,98,69.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,Large Private Suite in the Heart of Midtown,4.0,3.56,505,77.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Amazing Master Bedroom in Historic Brooklyn,2.0,4.93,317,36.0
+SUPERHOST,Entire house in Flatbush,Flatbush,Flatbush Hideaway - Quiet and close to subway!,4.0,4.86,95,39.0
+SUPERHOST,Private room in Queens,Queens,"Gold Room in Old American Style House, Near Subway",2.0,5.0,8,23.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Best Quiet Apartment / Union Square,3.0,4.81,36,51.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Courtyard Queen,2.0,4.56,327,69.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Near Broadway / King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,High Floor River View w/ King Bed Hotel Room,2.0,4.6,10,89.0
+SUPERHOST,Hotel room in Midtown,Midtown,King Room City,2.0,4.54,477,79.0
+SUPERHOST,Private room in East Village,EastVillage,Discount $48 Tonight! No hidden fees in Manhattan,2.0,4.83,279,55.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful 2 Double Bed Hotel Room,4.0,5.0,15,79.0
+SUPERHOST,Entire apartment in Inwood,Inwood,"Cosy Apartment-Inwood 4 min to train 1, A, &Park",1.0,5.0,7,50.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Nolitan Hotel, Balcony Room",2.0,4.25,8,86.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Studio Apartment Full Bath 15 Minutes From JFK,2.0,4.79,81,55.0
+SUPERHOST,Entire apartment in Pelham Bay,PelhamBay,Charming Apartment with Private Backyard,4.0,4.89,131,30.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Modern 1 Bedroom Apt - Trendy & Historic Downtown,4.0,4.9,39,71.0
+SUPERHOST,Entire apartment in West Village,WestVillage,Vintage Loft Style Studio - Greenwich/Union Square,4.0,4.81,32,46.0
+SUPERHOST,Private room in Manhattan,Manhattan,Penthouse with Downtown Views in Nolita,2.0,4.42,12,39.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Home Away from Home-Room in Midtown,2.0,4.75,226,35.0
+SUPERHOST,Entire apartment in Greenwich Village,GreenwichVillage,1BR Penthouse in SoHo / Greenwich Village,2.0,4.67,3,90.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Gild Hall - Luxury Boutique Hotel, King Bed",2.0,4.33,3,100.0
+SUPERHOST,Private room in Washington Heights,WashingtonHeights,Beautiful Bedroom in Manhattan,2.0,4.25,112,30.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Private Apt with 2 beds at Gramercy park,2.0,4.13,8,38.0
+SUPERHOST,Private room in Upper East Side,UpperEastSide,UES - Manhattan Cozy Room/ Elevator Building,2.0,5.0,31,34.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,1 bedroom apartment historic Clinton Hill -,2.0,na,na,30.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Two Twin Room,2.0,4.46,123,69.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.86,7,89.0
+SUPERHOST,Hotel room in Midtown,Midtown,King Room Sky,2.0,4.64,156,99.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,4.38,8,79.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Enjoy the best of Harlem in this comfortable home,2.0,5.0,28,58.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Penthouse Studio w/ NYC Views from Private Balcony,2.0,na,na,65.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Cozy Brooklyn Hideaway,2.0,5.0,8,61.0
+SUPERHOST,Private room in Queens,Queens,"Room w/ Private Balcony, Next to Train, LGA/MNHTN",1.0,na,na,28.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful 2 Double Bed Hotel Room,4.0,5.0,9,79.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Superior Junior 1 bedroom apt. in the heart of NYC,2.0,na,na,60.0
+SUPERHOST,Private room in Manhattan,Manhattan,Classic Harlem Brownstone - Manhattan,3.0,4.62,261,21.0
+SUPERHOST,Private room in Upper West Side,UpperWestSide,Cozy room in Upper west side Manhattan!,2.0,4.77,13,36.0
+SUPERHOST,Private room in Washington Heights,WashingtonHeights,Nice Private Room in Manhattan,2.0,4.19,125,32.0
+SUPERHOST,Entire place in Midtown,Midtown,Private studio in midtown Manhattan,1.0,5.0,6,60.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Lovely Micro Studio in Murray Hill NYC,2.0,5.0,4,46.0
+SUPERHOST,Entire apartment in East Village,EastVillage,Amazing East Village XL Studio Apartment.Scrubbed!,4.0,4.74,292,91.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Courtyard Queen ADA,2.0,4.44,43,69.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,5.0,9,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,4.33,3,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful 2 Double Bed Hotel Room,4.0,4.33,9,79.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Splendid NYC studio apartment,2.0,na,na,60.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,"HOME AWAY FROM HOME! 1 Bedroom, Clinton Hill, BK",2.0,na,na,58.0
+SUPERHOST,Private room in East Village,EastVillage,Cozy Room in Lively East Village,1.0,4.92,534,43.0
+SUPERHOST,Entire apartment in Hell's Kitchen,Hell'sKitchen,Two Bedroom Apartment in Midtown West,4.0,na,na,85.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,Recently renovated apartment with full kitchen,4.0,4.64,22,59.0
+SUPERHOST,Private room in Bushwick,Bushwick,"Private Studio+Bath+Balcony, 15 mins to Manhattan",2.0,4.99,138,67.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Nolitan Hotel, Neighborhood Room",2.0,4.14,7,83.0
+SUPERHOST,Hotel room in Midtown,Midtown,Queen Room City ADA,2.0,4.74,19,79.0
+SUPERHOST,Private room in Washington Heights,WashingtonHeights,Private Bedroom in Manhattan,2.0,4.24,107,31.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Gild Hall, Luxury King Room and Complimentary WiFi",2.0,5.0,11,100.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Modern One Bedroom Apartment,2.0,5.0,3,90.0
+SUPERHOST,Entire apartment in Union Square,UnionSquare,C☆zy Studio in Union Square Park,2.0,4.65,31,56.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,"1st Floor, Room #7 (9' x 12')",2.0,4.63,19,38.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,4.86,7,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.77,13,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Courtyard King,2.0,4.35,23,69.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Beautiful NYC studio,2.0,na,na,60.0
+SUPERHOST,Entire apartment in Queens,Queens,Cozy Cupcake Apartment,3.0,na,na,70.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Amazing Private Room @Madison Square Garden,2.0,4.4,163,52.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Beautiful 2 Double Bed Hotel Room,4.0,5.0,8,79.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Private room in Times Square,1.0,3.89,9,40.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Ideal junior 1 bedroom suite in Midtown Manhattan,3.0,5.0,4,60.0
+SUPERHOST,Private room in Manhattan,Manhattan,NEW ! Chic Designer Blue,2.0,4.76,96,53.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Sonder at Battery Park | Studio with Weekly Discounts,2.0,4.63,112,104.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,"138 Bowery, Queen Studio Room",2.0,na,na,80.0
+SUPERHOST,Private room in Bushwick,Bushwick,SUPERCUTE BEDROOM💖 2 DOUBLE BEDS PRIVATE BATHROOM,2.0,4.79,154,36.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Basement in a Gorgeous Brooklyn Brownstone,3.0,4.51,49,40.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Studio Queen size bed,2.0,na,na,75.0
+SUPERHOST,Entire apartment in Greenwich Village,GreenwichVillage,Private Sunny Studio in the Heart of Soho,2.0,5.0,14,81.0
+SUPERHOST,Private room in Manhattan,Manhattan,Superior Room with Private Bathroom in Manhattan,3.0,4.85,26,85.0
+SUPERHOST,Private room in East Village,EastVillage,Sita Budget Cozy Private Room (fights NYC Hunger),2.0,4.67,18,52.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.63,8,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,5.0,5,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,City Queen – Terrace,2.0,4.55,69,125.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Beautiful 2 Double Bed Hotel Room,4.0,4.91,11,79.0
+SUPERHOST,Private room in Queens,Queens,Spacious furnished room in Astoria NYC. Free WiFi!,1.0,na,na,20.0
+SUPERHOST,Entire place in Midtown,Midtown,Adorable midtown studio,2.0,5.0,3,60.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Spacious King size room,2.0,4.63,8,80.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Gild Hall, Luxury King Room and Complimentary WiFi",2.0,4.6,5,100.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,2 Beds Private Suite w/ Kitchen near Penn Station,4.0,3.43,87,86.0
+SUPERHOST,Private room in Kips Bay,KipsBay,Cozy space in midtown Manhattan,1.0,na,na,42.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Time’s Square Cozy room,2.0,5.0,6,40.0
+SUPERHOST,Entire guest suite in Queens,Queens,"Cozy Modern Studio in Astoria,20 min to Manhattan",2.0,4.87,141,68.0
+SUPERHOST,Private room in Queens,Queens,"Airy Couple Room, well-situated & 2mins to station",2.0,na,na,23.0
+SUPERHOST,Entire apartment in Williamsburg,Williamsburg,Incredible studio with private backyard.,3.0,4.5,60,70.0
+SUPERHOST,Room in boutique hotel in Midtown,boutiquehotelinMidtown,"Citadines Connect 5th Ave, Premier King",2.0,4.57,82,97.0
+SUPERHOST,Private room in Tribeca,Tribeca,Bedroom available! - TriBeCa/Financial Manhattan!,1.0,4.7,44,50.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Private & Cozy Studio in the center of NYC,2.0,5.0,8,46.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,Private and Spacious Queen Room Across From MSG,2.0,4.02,137,68.0
+SUPERHOST,Private room in Times Square/Theatre District,TimesSquare/TheatreDistrict,Private bedroom near Central Park South,1.0,5.0,3,40.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.88,8,89.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Home away from home - Entire private apartment,2.0,na,na,45.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,4.86,7,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Bunk Room,2.0,na,na,69.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Exceptional Junior One Bedroom Suite in Midtown,2.0,4.83,6,60.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View 2 Double Beds Hotel Room,4.0,4.5,8,89.0
+SUPERHOST,Entire apartment in Melrose,Melrose,Downtown Bronx Studio 15 min ride to Manhattan,3.0,4.86,28,62.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Cute Junior one bedroom Suite in Midtown NYC,3.0,4.5,4,60.0
+SUPERHOST,Private room in Pelham Bay,PelhamBay,TW #5 Private Rm- 1st Fl. Queen Bed 1 to 2 Guests,2.0,4.82,49,41.0
+SUPERHOST,Private room in Glendale,Glendale,Private room with visit to queens # 3,2.0,4.9,109,35.0
+SUPERHOST,Entire apartment in West Village,WestVillage,"1 Bedroom - Gay Street, West Village!",2.0,na,na,83.0
+SUPERHOST,Private room in East Village,EastVillage,Radha Budget Cozy Private Room (fights NYC Hunger),2.0,4.5,18,50.0
+SUPERHOST,Entire apartment in Upper East Side,UpperEastSide,1-BD Upper East Side Apt (extended stay available),4.0,na,na,70.0
+SUPERHOST,Private room in Queens,Queens,"Vibrant RM in Astoria. Recent built, 3min->sta",1.0,na,na,27.0
+SUPERHOST,Private room in Bushwick,Bushwick,Amazing Modern ROOM,2.0,na,na,36.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.87,15,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Special Junior 1 bedroom suite in the heart of NYC,2.0,na,na,60.0
+SUPERHOST,Private room in Park Slope,ParkSlope,"Friendly, unpretentious, close to the subway",2.0,4.92,88,34.0
+SUPERHOST,Private room in East Village,EastVillage,Great Room in Lively East Village,2.0,4.91,450,55.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Time’s Square Queen room,2.0,5.0,10,38.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,BEST LOCATION - Lovely room by Times Square!!!,2.0,4.74,150,38.0
+SUPERHOST,Entire apartment in West Village,WestVillage,Studio in the Best location in Manhattan,2.0,4.27,223,55.0
+SUPERHOST,Private room in Crown Heights,CrownHeights,"Clean and cozy room, short walk to 3/4 trains.",2.0,4.94,18,35.0
+,,,,,,,
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Bowery Queen size room,2.0,na,na,100.0
+SUPERHOST,Entire guest suite in Brooklyn,Brooklyn,Garden Delight in Brooklyn!,4.0,5.0,3,69.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Cozy and Artsy 1-Bedroom Apt in Carroll Gardens,3.0,5.0,3,59.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Cozy Mini Studio Prvt Bath & Kitchen 15 Mins JFK,2.0,4.51,157,51.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.33,9,89.0
+SUPERHOST,Private room in Crown Heights,CrownHeights,Brooklyn Apartment steps away from Brooklyn Museum,2.0,4.87,188,50.0
+SUPERHOST,Entire place in Midtown,Midtown,Quiet Studio in Midtown manhattan,2.0,5.0,3,60.0
+SUPERHOST,Entire apartment in Midtown,Midtown,~ NEWLY RENOVATED STUDIO ~ GRAND CENTRAL ~,2.0,na,na,62.0
+SUPERHOST,Private room in Bushwick,Bushwick,ARTIST LOFT IN CONVERTED FACTORY - NEAR 2 METROS,2.0,4.42,76,30.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Extremely Large Room in Remodeled Brownstone!,1.0,4.9,20,50.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Private Sunny Room 15min from Manhattan,2.0,4.66,349,46.0
+SUPERHOST,Private room in Manhattan,Manhattan,PRIME Location! Midtown Private Room 1-King bed,2.0,4.92,25,50.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Hendrix Street Gem Rm #3,2.0,4.32,169,35.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,"138 Bowery, Classic Queen Room",2.0,4.14,7,70.0
+SUPERHOST,Shared room in Hell's Kitchen,Hell'sKitchen,Shared room in midtown west manhattan,1.0,4.33,9,29.0
+SUPERHOST,Private room in Manhattan,Manhattan,"True Hidden Gem, Center of Downtown NY",2.0,4.93,61,65.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,5.0,8,89.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,5.0,5,89.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Luxurious studio near NYU Hospital,2.0,4.8,10,60.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Williamsburg Penthouse Hideaway,2.0,4.63,504,50.0
+SUPERHOST,Private room in Manhattan,Manhattan,PRIME Location! Midtown Private Room 2-Queen Bed,2.0,4.63,16,50.0
+SUPERHOST,Private room in Manhattan,Manhattan,"Safe, simple, quiet and clean room near Chinatown2",2.0,na,na,46.0
+SUPERHOST,Private room in Union Square,UnionSquare,Near Gramercy Park/ Private Entrance,2.0,4.47,32,43.0
+SUPERHOST,Entire apartment in Flatbush,Flatbush,"Airy, Private, Spacious ✨ Prospect Park",4.0,4.55,76,68.0
+SUPERHOST,Private room in Queens,Queens,Grey Area in Queens,2.0,4.79,28,45.0
+SUPERHOST,Private room in Manhattan,Manhattan,Cute Room. Manhattan. 20 min train to Time Square!,3.0,4.52,183,40.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Williamsburg Penthouse Guestroom,2.0,4.69,505,51.0
+SUPERHOST,Private room in Manhattan,Manhattan,"Quaint, Convenient Upper East Side",2.0,4.79,43,24.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Sonder *Weekly Specials* Studio Near Zuccotti Park,2.0,4.54,70,108.0
+SUPERHOST,Private room in Manhattan,Manhattan,NEW! Chic Designer Vanilla,2.0,4.8,76,53.0
+SUPERHOST,Private room in Queens,Queens,Quiet Neighborhood near the beach,1.0,4.83,23,57.0
+SUPERHOST,Private room in Crown Heights,CrownHeights,Clean & Spacious King Bedroom,2.0,4.77,184,40.0
+SUPERHOST,Entire house in Jersey City,JerseyCity,The Brick Studio only 30 Mins to NYC,4.0,4.44,137,41.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Private Room w/ AC special rate room,1.0,4.56,99,32.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Bright Junior 1 bedroom Suite in the heart of NYC,3.0,na,na,60.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.87,15,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Excellent studio in Midtown Manhattan,2.0,4.67,3,60.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,INVITING BRIGHT & STYLISH STUDIO,2.0,4.69,37,89.0
+SUPERHOST,Private room in Pelham Bay,PelhamBay,TW#4 Private Rm 1st Fl Full Size Bed 1 Guest Only,1.0,4.79,39,35.0
+SUPERHOST,Private room in Manhattan,Manhattan,Extra Large Room on 143 street,4.0,4.56,9,42.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,"138 Bowery, King Studio Room",2.0,4.83,12,110.0
+SUPERHOST,Private room in Chinatown,Chinatown,"Private bedroom in Chinatown, NYC, #1",2.0,4.51,118,79.0
+SUPERHOST,Private room in Bushwick,Bushwick,Bk's Finest City life close to Transportation,2.0,4.48,302,45.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,"Single Cabins (Chelsea, Manhattan, NYC)",1.0,4.21,453,52.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Super clean apt w private backyard. Manhattan LES,3.0,4.89,18,60.0
+SUPERHOST,Private room in Jersey City,JerseyCity,Great space and prime location!! Very walkable!,1.0,4.83,48,31.0
+SUPERHOST,Private room in Manhattan,Manhattan,Lovely Central Park Upper West Side,2.0,4.9,41,28.0
+SUPERHOST,Private room in Union,Union,Quiet Room Newark International Airport Queen bed,2.0,5.0,3,30.0
+SUPERHOST,Private room in Upper East Side,UpperEastSide,Private room by Central Park,2.0,5.0,5,39.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Optimized Micro-Studio in the center of NYC,1.0,5.0,8,43.0
+SUPERHOST,Entire apartment in Bushwick,Bushwick,Private studio! Thoroughly disinfected 1A,2.0,4.81,302,50.0
+SUPERHOST,Entire apartment in Sunset Park,SunsetPark,Sunset Park Studio,2.0,4.94,33,90.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Water View King Bed Hotel Room,2.0,4.5,8,89.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Large King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Large King Bed Hotel Room,2.0,4.75,4,77.0
+SUPERHOST,Entire place in Midtown,Midtown,Cozy Studio in midtown Manhattan,2.0,4.33,3,60.0
+SUPERHOST,Private room in Manhattan,Manhattan,Serene & Spacious Manhattan Room Near the Station,1.0,5.0,4,26.0
+SUPERHOST,Entire condominium in Brooklyn,iuminBrooklyn,Cozy + Chic Brooklyn Duplex,3.0,na,na,90.0
+SUPERHOST,Private room in Manhattan,Manhattan,Private Bedroom in the Heart of the LES,2.0,4.83,18,24.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Studio apartment near Columbus Circle/Central Park,2.0,4.82,92,49.0
+SUPERHOST,Private room in East Elmhurst,EastElmhurst,"Cozy Private Room, Walking Distance From LGA,Rm-7",1.0,4.68,50,35.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Private room in Williamsburg,1.0,na,na,24.0
+SUPERHOST,Private room in Jamaica,Jamaica,Clean&Simple (45 minutes to Manhattan) Near JFK,2.0,4.8,186,39.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Private Brooklyn Bedroom in Brownstone Near Subway,1.0,5.0,11,41.0
+SUPERHOST,Private room in Queens,Queens,Room super close to Midtown! 2 mins->subway,1.0,5.0,4,28.0
+SUPERHOST,Private room in Queens,Queens,Unique minimalistic Sunnyside rm ->to Mnhttn/sbwy.,1.0,na,na,24.0
+SUPERHOST,Private room in Union Square,UnionSquare,Cozy Studio in Gramercy park,2.0,4.69,32,44.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Midtown West One Bedroom near Tourist Attractions,3.0,na,na,103.0
+SUPERHOST,Entire apartment in Jersey City,JerseyCity,Retro 90’s Vintage Style Duplex 1BR/1.5BA By NYC,2.0,4.89,75,69.0
+SUPERHOST,Room in boutique hotel in Manhattan,boutiquehotelinManhattan,"Gild Hall - Luxury Boutique Hotel, King Bed",2.0,3.88,8,100.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Freehand New York - Artist Room,1.0,4.38,164,80.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,"138 Bowery, Vibrant Queen Room",2.0,na,na,81.0
+SUPERHOST,Shared room in Hell's Kitchen,Hell'sKitchen,Cozy shared room in Times Square,1.0,4.91,11,30.0
+SUPERHOST,Entire apartment in Crown Heights,CrownHeights,"Comfy, Cozy Studio at the Grand Old Mansion",2.0,4.74,72,80.0
+SUPERHOST,Entire apartment in Queens,Queens,Cozy & bright entire apt 12 mins away to Manhattan,4.0,4.94,51,51.0
+SUPERHOST,Private room in Bushwick,Bushwick,POSTED UP ON PUTNAM,2.0,4.87,91,49.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Cozy Williamsburg room,2.0,4.66,62,35.0
+SUPERHOST,Entire apartment in Hell's Kitchen,Hell'sKitchen,Midtown Manhattan Hideaway Disinfected &Sanitized!,2.0,4.51,275,74.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Beautiful King Bed Hotel Room,2.0,4.64,11,79.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Large King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,4.89,9,89.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,na,na,89.0
+SUPERHOST,Entire place in Midtown,Midtown,Lovely studio in Midtown Manhattan,2.0,4.83,6,60.0
+SUPERHOST,Private room in Manhattan,Manhattan,Downtown Manhattan Bedroom! Top of Fidi/City Hall,1.0,5.0,10,50.0
+SUPERHOST,Private room in Queens,Queens,Chic Designer Home Guest Studio,2.0,4.9,156,65.0
+SUPERHOST,Private room in Washington Heights,WashingtonHeights,Quiet stylish room near Express Train to Midtown,2.0,4.92,49,55.0
+SUPERHOST,Private room in Manhattan,Manhattan,Cozy room - only 20 min to Times Square,2.0,na,na,24.0
+SUPERHOST,Private room in Manhattan,Manhattan,By the seaport,1.0,na,na,34.0
+SUPERHOST,Private room in Elmhurst,Elmhurst,Affordable room near of LGA airport in Queens.,1.0,4.65,335,35.0
+SUPERHOST,Private room in Manhattan,Manhattan,Chic Designer’s Room & 2 Beds in Manhattan LES,2.0,4.58,289,47.0
+SUPERHOST,Entire house in Midwood,Midwood,Comfortable Private Apartment in Heart of Flatbush,3.0,4.55,87,54.0
+SUPERHOST,Entire house in Jersey City,JerseyCity,2 bed 1 bath Apartment 25mins to Manhat,2.0,4.67,6,53.0
+SUPERHOST,Private room in Roselle,Roselle,Comfortable Private room,2.0,4.37,19,28.0
+SUPERHOST,Private room in Queens,Queens,"Bright and clean room in Astoria, steps from train",2.0,4.96,27,40.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Spacious Brooklyn 1-bed right by buses and subway,2.0,5.0,8,61.0
+SUPERHOST,Entire apartment in Allerton,Allerton,PRIVATE BATH/TONS OF SUNLIGHT/SAFE,3.0,4.48,244,49.0
+SUPERHOST,Private room in Bushwick,Bushwick,Private Room + Tons of Spacious Common Areas,1.0,na,na,31.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Beautiful King Bed Hotel Room,2.0,4.67,6,79.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Beautiful King Bed Hotel Room,2.0,4.67,6,79.0
+SUPERHOST,Entire place in Midtown,Midtown,Cool studio in midtown Manhattan,2.0,5.0,7,60.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Cozy Apartment,2.0,5.0,5,76.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Beautiful studio in midtown Manhattan,2.0,na,na,60.0
+,,,,,,,
+SUPERHOST,Private room in Upper West Side,UpperWestSide,Cozy Room with Balcony in New York,2.0,4.25,40,50.0
+SUPERHOST,Private room in Bushwick,Bushwick,"Private Studio+bath+Roof Deck, 15 min to Manhattan",2.0,4.92,75,63.0
+SUPERHOST,Private room in Elizabeth,Elizabeth,Private Studio Apt near NJ Airport & Trains to NY,2.0,4.89,245,46.0
+SUPERHOST,Entire apartment in Weehawken,Weehawken,Boho studio 15 minutes from Times Square,2.0,4.5,6,60.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Central & Stylish 1 Bedroom Apt - Heart of Chelsea,4.0,5.0,13,85.0
+SUPERHOST,Entire townhouse in Williamsburg,Williamsburg,Artistic townhouse with private garden,2.0,na,na,90.0
+SUPERHOST,Private room in Flatbush,Flatbush,"Private Bedroom in Artsy Airbnb: Room ""L""",2.0,4.79,190,48.0
+SUPERHOST,Private room in South Street Seaport,SouthStreetSeaport,Alohause | Wall St | Marvelous Room + Financial Dt,2.0,na,na,39.0
+SUPERHOST,Private room in Manhattan,Manhattan,Master bedroom. 20 min to Time Square!,4.0,4.72,153,42.0
+SUPERHOST,Private room in Manhattan,Manhattan,Classic Harlem Getaway - Manhattan,3.0,4.45,240,28.0
+SUPERHOST,Entire apartment in Jamaica,Jamaica,"Private Apartment - Downtown Jamaica,Queens - NYC",2.0,4.64,14,53.0
+SUPERHOST,Shared room in Hell's Kitchen,Hell'sKitchen,Shared room in Times Square,2.0,4.0,5,28.0
+SUPERHOST,Entire loft in Hell's Kitchen,Hell'sKitchen,COZY APARTMENT IN TIMES SQUARE & CENTRAL PARK,4.0,4.48,42,104.0
+SUPERHOST,Entire apartment in Hell's Kitchen,Hell'sKitchen,Furnished Studio in a Brand New Building,2.0,na,na,70.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Ideal studio in the heart of NYC,2.0,na,na,60.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Water View King Bed Hotel Room,2.0,na,na,89.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Homey studio in the heart of NYC,2.0,na,na,60.0
+SUPERHOST,Hotel room in Manhattan,Manhattan,Near Brooklyn Bridge / King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Private room in Williamsburg,Williamsburg,Cozy bedroom in williamsburg,2.0,4.46,104,36.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,King size room with living room area,2.0,na,na,85.0
+SUPERHOST,Private room in Alphabet City,AlphabetCity,Alohause | East Village | Terrific & Spotless Room,2.0,na,na,29.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Private Room with a view next to Times Square!,2.0,4.53,95,61.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,♥Sunshine of the Spotless Mind room♥,2.0,4.71,163,35.0
+SUPERHOST,Entire apartment in Crown Heights,CrownHeights,Air B and B at the Grand Old Mansion,2.0,4.64,76,80.0
+SUPERHOST,Entire guest suite in Queens,Queens,"Cozy, sparkle clean private studio!",2.0,4.87,46,75.0
+SUPERHOST,Hotel room in Midtown,Midtown,Spacious Manhattan Room Near Times Square,3.0,4.22,101,108.0
+SUPERHOST,Entire apartment in Crown Heights,CrownHeights,Beautiful piano Brooklyn condo overlooking park,4.0,4.73,114,58.0
+SUPERHOST,Private room in Bushwick,Bushwick,Bright Bedroom in the heart of Bushwick,1.0,na,na,29.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,Spacious Apartment,2.0,4.67,6,75.0
+SUPERHOST,Private room in Manhattan,Manhattan,Twin bed-Close to Columbia U & Central Park,2.0,4.73,325,50.0
+SUPERHOST,Private room in Bushwick,Bushwick,PUTNAMASTE,2.0,4.97,75,49.0
+SUPERHOST,Private room in Hell's Kitchen,Hell'sKitchen,Room with a VIEW next to Times Square!,2.0,4.62,99,64.0
+,,,,,,,
+SUPERHOST,Room in boutique hotel in Chinatown,boutiquehotelinChinatown,"NoMo SoHo, Premium Queen Room",2.0,4.59,29,132.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Private Room 2,1.0,4.45,127,31.0
+SUPERHOST,Entire apartment in Brooklyn Heights,BrooklynHeights,Private 2 Bed Suite in Stunning Brooklyn Heights.,4.0,4.96,26,89.0
+SUPERHOST,Private room in Bedford Park,BedfordPark,Medical Pro’s/ Student: Boho-Style Living Space,1.0,4.91,23,45.0
+SUPERHOST,Private room in Manhattan,Manhattan,Convenient & Sunny Room Close to Central Park,2.0,4.3,20,43.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,"Private room, quiet 2 level Remodeled Brownstone!",1.0,4.85,96,44.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,A Little Sumptin' on Sumpter,2.0,4.7,134,28.0
+SUPERHOST,Entire place in Kips Bay,KipsBay,Beautiful midtown apartment,2.0,4.88,8,60.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,Fantastic studio in the heart of NYC,2.0,na,na,60.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Fantastic midtown apartment,2.0,na,na,60.0
+SUPERHOST,Entire serviced apartment in Midtown,Midtown,Pleasant studio in Midtown Manhattan,2.0,na,na,60.0
+SUPERHOST,Hotel room in South Street Seaport,SouthStreetSeaport,Near South Street Seaport / King Bed Hotel Room,2.0,na,na,79.0
+SUPERHOST,Entire apartment in Manhattan,Manhattan,Studio In Herald Square (Midtown),4.0,na,na,43.0
+SUPERHOST,Entire apartment in Soho,Soho,Spacious Studio in Little Italy,3.0,4.33,5,75.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,Newly Renovated Apartment in Little Italy,3.0,4.0,3,80.0
+SUPERHOST,Private room in Bushwick,Bushwick,"Private Bath + 2 Beds Option, 15 mins to Manhattan",2.0,5.0,17,47.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,Bright Studio in Bowery Street,2.0,na,na,70.0
+SUPERHOST,Private room in Kew Garden Hills,KewGardenHills,Beautiful bedroom in Quiet House,2.0,4.87,143,36.0
+SUPERHOST,Entire apartment in Midtown,Midtown,Midtown West One Bedroom near Central Park Entrance,3.0,na,na,105.0
+SUPERHOST,Private room in Dyker Heights,DykerHeights,"""Beautiful Traveler Room"" Brooklyn Medical Student",1.0,5.0,15,42.0
+SUPERHOST,Entire place in Midtown,Midtown,Splendid studio in midtown Manhattan,2.0,5.0,3,60.0
+SUPERHOST,Entire apartment in Noho,Noho,Bleecker Street 1-bedroom in NoHo (3R),2.0,na,na,85.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Sunny Room + Many Amenities for an Easy Stay,2.0,4.85,279,42.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,Brooklyn Home Away From Home Next to Subway,2.0,na,na,31.0
+SUPERHOST,Entire apartment in Bushwick,Bushwick,"Bright, new studio with balcony access",2.0,4.8,66,81.0
+SUPERHOST,Private room in Elizabeth,Elizabeth,Beautiful Private Bedroom Newly Renovated,2.0,4.87,23,34.0
+SUPERHOST,Shared room in Hell's Kitchen,Hell'sKitchen,“TIME SQUARE” 43rd street SINGLE BED,1.0,4.22,136,36.0
+SUPERHOST,Private room in Brooklyn,Brooklyn,"Charming, sunny room in artist's apartment",1.0,4.85,20,50.0
+SUPERHOST,Entire apartment in Chinatown,Chinatown,"138 Bowery, King Room",2.0,5.0,3,120.0
+SUPERHOST,Entire apartment in Brooklyn,Brooklyn,Modern Beautiful Bedford Stuyvesant Brownstone,4.0,4.79,203,79.0
+SUPERHOST,Private room in Bushwick,Bushwick,Private Bedroom in the heart of Bushwick!,1.0,na,na,29.0
+SUPERHOST,Private room in Manhattan,Manhattan,"Safe, simple, quiet and clean room near Chinatown",2.0,na,na,32.0
+SUPERHOST,Private room in Bushwick,Bushwick,PRETTY POPULAR ON PUTNAM,2.0,4.91,88,49.0
+SUPERHOST,Entire apartment in Kips Bay,KipsBay,"1 Bedroom, Walking Distance to Union Square, Madison Square Park",3.0,na,na,149.0
