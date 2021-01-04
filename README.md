@@ -1,4 +1,4 @@
-# Airbnb.com-Web-Scraper
+# Airbnb.com WebScraper
 
 ## Build an Web Scraper that extracts New York's Airbnb house listings data from Airbnb.com using Python's Selenium library
 
